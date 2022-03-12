@@ -1,0 +1,54 @@
+rownum,firstname,lastname,email,Email Pattern
+1,jonathan,de montis,jonathan@gmail.com,<11>
+2,,Mcgregar,mcgregar@gmail.com,<22>
+3,andrea,ôvidio bonetti,a.bonetti@gmail.com,<1>.<21>
+4,tarik,shaaban,t.shaaban@gmail.com,<1>.<22>
+5,segolene,caillemer,scaillemer@gmail.com,<1><22>
+6,caroline,benayoun,caroline@gmail.com,<11>
+7,môises,delos reyes,mdelosreyes@gmail.com,<1><20><21>
+8,vïctor,r guerra,victor.guerra@gmail.com,<11><20>
+9,chuan-chu,chou,chu_chou@gmail.com,<11-f3l>_<22>
+10,ivy--,lee,ivlee@gmail.com,<11-f2l><22>
+11,peiyan,sai,pesai@gmail.com,<11-f2l><22>
+12,lieven,el arouni,lieven.elarouni@gmail.com,<11>.<20><21>
+13,elzbieta,bien-przybek,e.bien@gmail.com,<1>.<20>
+14,amira,,amshaaban@gmail.com,<11-f2l><22>
+15,waleed,essam,waessam@gmail.com,<11-f2l><22>
+16,shrief,ezzat,shezzat@gmail.com,<11-f2l><22>
+17,katrin,de grenier,katrin.degrenier@gmail.com,<11>.<20><21>
+18,pieter,de weerd,pieter.de-weerd@gmail.com,<11>.<20>-<21>
+19,Jôn,Jôn Deckors,jon-deckors@gmail.com,<11>-<20>
+20,david,lecomte,david.lecomte@gmail.com,<11>.<22>
+21,ian,ian ditullio,ian.ditullio@gmail.com,<11>.<21>
+22,myrïam,el' harraq,myri.elharraq@gmail.com,<11-f4l>.<20><21>
+23,lieven,le roux,lieven.leroux@gmail.com,<11>.<20><21>
+24,jordane,de villaret,jordane.devillaret@gmail.com,<11>.<20><21>
+25,salem,al shahrani,salem.alshahrani@gmail.com,<11>.<20><21>
+26,ronan,mc governronan,ronan.mcgovern@gmail.com,<11>.<20><21-f6l>
+27,saqr,fassi fehri,saqr.fassifehri@gmail.com,<11>.<20><21>
+28,shrief,de jaham,shrief.dejaham@gmail.com,<11>.<20><21>
+29,nathalie,de louvigny,nathalie.delouvigny@gmail.com,<11>.<20><21>
+30,angelique,de simencourt,angelique.desimencourt@gmail.com,<11>.<20><21>
+31,smahane,elarouni,smahane.elarouni@gmail.com,<11>.<22>
+32,jean,baptiste poulain,jeanbaptiste.poulain@gmail.com,<11><20>.<21>
+33,nelly,pais pereira,nelly.paispereira@gmail.com,<11>.<20><21>
+34,amir,ben mansour,amir.benmansour@gmail.com,<11>.<20><21>
+35,nicolas,de gols,nicolas.degols@gmail.com,<11>.<20><21>
+36,sander,de jong,sander.dejong@gmail.com,<11>.<20><21>
+37,mostafa,el enany,mostafa.elenany@gmail.com,<11>.<20><21>
+38,eric,a' laporte,eric.laporte@gmail.com,<11>.<21>
+39,anne-laure,chamorand,annelaure.chamorand@gmail.com,<10><11>.<22>
+40,bonifacio,d'costa kull,bonifacio.dcosta@gmail.com,<11>.<20>
+41,adele,de montmarin,adele.demontmarin@gmail.com,<11>.<20><21>
+42,caroline,de caigny,caroline.decaigny@gmail.com,<11>.<20><21>
+43,khang,nguyen trieu,khang.nguyentrieu@gmail.com,<11>.<20><21>
+44,barbara,de manincor,barbara.demanincor@gmail.com,<11>.<20><21>
+45,claire,le calvez,claire.lecalvez@gmail.com,<11>.<20><21>
+46,renate,van roon,renate.vanroon@gmail.com,<11>.<20><21>
+47,angelique,de simencourt,angelique.desimencourt@gmail.com,<11>.<20><21>
+48,ian,di tullio,ian.ditullio@gmail.com,<11>.<20><21>
+49,lennart,c bachmann,lennart.bachmann@gmail.com,<11>.<21>
+50,chad,guyer,cguyer@gmail.com,<1><22>
+51,marcel,de jong,marcel.dejong@gmail.com,<11>.<20><21>
+52,andrea,sala,andrea.sala@gmail.com,<11>.<22>
+53,armin,grathwohl,armin.grathwohl@gmail.com,<11>.<22>
